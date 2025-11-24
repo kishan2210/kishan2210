@@ -30,8 +30,6 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
   <img src="https://github-profile-trophy.vercel.app/?kishan2210=ryo-ma" alt="kishan2210" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2210&layout=compact&theme=radical" alt="kishan2210" height="180" />
 </div>
