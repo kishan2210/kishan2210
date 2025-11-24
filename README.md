@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Enterprise POS Solutions & Hardware Integration**
 - 👯 I’m looking to collaborate on **Open Source Android Libraries**
 - 💬 Ask me about **Android Architecture, NDK/C++, & Offline-First Systems**
-- 📫 How to reach me: **kishanthakkar.beetonz@gmail.com**
+- 📫 How to reach me: **kishan.thakkar38@gmail.com**
 
 <br>
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kishan-thakkar-5389a01ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-thakkar" height="30" width="40" /></a>
-<a href="mailto:kishanthakkar.beetonz@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:kishan.thakkar38@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
